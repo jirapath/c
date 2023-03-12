@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{84E70464-FA88-454F-A624-BCEB4A8276B4}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Globomantics.ProductsApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Globomantics.ProductsApi/Startup.cs">
+    <Files>
+      <File FileName="Globomantics.ProductsApi/Startup.cs" Line="52" Column="48" />
+      <File FileName="Globomantics.ProductsApi/appsettings.Development.json" Line="9" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Globomantics.ProductsApi" expanded="True">
+            <Node name="Globomantics.ProductsApi" expanded="True">
+              <Node name="appsettings.json" expanded="True">
+                <Node name="appsettings.Development.json" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

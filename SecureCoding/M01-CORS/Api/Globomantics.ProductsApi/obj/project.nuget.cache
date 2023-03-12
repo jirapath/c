@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "45brkfqPLaNwq6sr3wTCkqVTrwX53p0At6r8sX0zSBhnLILRDsm3SFI5AiX5JSVb2LLHhR1g3FEfuMzr7hAkGw==",
+  "success": true,
+  "projectFilePath": "/Users/jirapath/Workspace/SecureCoding-Workshop/M01-CORS/Api/Globomantics.ProductsApi/Globomantics.ProductsApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/jirapath/.nuget/packages/bogus/28.4.1/bogus.28.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}

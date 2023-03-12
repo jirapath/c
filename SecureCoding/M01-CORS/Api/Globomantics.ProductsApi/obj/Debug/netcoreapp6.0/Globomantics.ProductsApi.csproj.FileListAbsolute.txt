@@ -1,0 +1,50 @@
+/Users/phanupong/Downloads/configuring-cors-in-aspnet-and-aspnet-core-2/02/demos/Exercise Files/Module 02 Clip 03/Api/Globomantics.ProductsApi/bin/Debug/netcoreapp6.0/appsettings.Development.json
+/Users/phanupong/Downloads/configuring-cors-in-aspnet-and-aspnet-core-2/02/demos/Exercise Files/Module 02 Clip 03/Api/Globomantics.ProductsApi/bin/Debug/netcoreapp6.0/appsettings.json
+/Users/phanupong/Downloads/configuring-cors-in-aspnet-and-aspnet-core-2/02/demos/Exercise Files/Module 02 Clip 03/Api/Globomantics.ProductsApi/bin/Debug/netcoreapp6.0/Globomantics.ProductsApi.deps.json
+/Users/phanupong/Downloads/configuring-cors-in-aspnet-and-aspnet-core-2/02/demos/Exercise Files/Module 02 Clip 03/Api/Globomantics.ProductsApi/bin/Debug/netcoreapp6.0/Globomantics.ProductsApi.runtimeconfig.json
+/Users/phanupong/Downloads/configuring-cors-in-aspnet-and-aspnet-core-2/02/demos/Exercise Files/Module 02 Clip 03/Api/Globomantics.ProductsApi/bin/Debug/netcoreapp6.0/Globomantics.ProductsApi.dll
+/Users/phanupong/Downloads/configuring-cors-in-aspnet-and-aspnet-core-2/02/demos/Exercise Files/Module 02 Clip 03/Api/Globomantics.ProductsApi/bin/Debug/netcoreapp6.0/ref/Globomantics.ProductsApi.dll
+/Users/phanupong/Downloads/configuring-cors-in-aspnet-and-aspnet-core-2/02/demos/Exercise Files/Module 02 Clip 03/Api/Globomantics.ProductsApi/bin/Debug/netcoreapp6.0/Globomantics.ProductsApi.pdb
+/Users/phanupong/Downloads/configuring-cors-in-aspnet-and-aspnet-core-2/02/demos/Exercise Files/Module 02 Clip 03/Api/Globomantics.ProductsApi/bin/Debug/netcoreapp6.0/Bogus.dll
+/Users/phanupong/Downloads/configuring-cors-in-aspnet-and-aspnet-core-2/02/demos/Exercise Files/Module 02 Clip 03/Api/Globomantics.ProductsApi/obj/Debug/netcoreapp6.0/Globomantics.ProductsApi.csproj.AssemblyReference.cache
+/Users/phanupong/Downloads/configuring-cors-in-aspnet-and-aspnet-core-2/02/demos/Exercise Files/Module 02 Clip 03/Api/Globomantics.ProductsApi/obj/Debug/netcoreapp6.0/Globomantics.ProductsApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phanupong/Downloads/configuring-cors-in-aspnet-and-aspnet-core-2/02/demos/Exercise Files/Module 02 Clip 03/Api/Globomantics.ProductsApi/obj/Debug/netcoreapp6.0/Globomantics.ProductsApi.AssemblyInfoInputs.cache
+/Users/phanupong/Downloads/configuring-cors-in-aspnet-and-aspnet-core-2/02/demos/Exercise Files/Module 02 Clip 03/Api/Globomantics.ProductsApi/obj/Debug/netcoreapp6.0/Globomantics.ProductsApi.AssemblyInfo.cs
+/Users/phanupong/Downloads/configuring-cors-in-aspnet-and-aspnet-core-2/02/demos/Exercise Files/Module 02 Clip 03/Api/Globomantics.ProductsApi/obj/Debug/netcoreapp6.0/Globomantics.ProductsApi.csproj.CoreCompileInputs.cache
+/Users/phanupong/Downloads/configuring-cors-in-aspnet-and-aspnet-core-2/02/demos/Exercise Files/Module 02 Clip 03/Api/Globomantics.ProductsApi/obj/Debug/netcoreapp6.0/Globomantics.ProductsApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/phanupong/Downloads/configuring-cors-in-aspnet-and-aspnet-core-2/02/demos/Exercise Files/Module 02 Clip 03/Api/Globomantics.ProductsApi/obj/Debug/netcoreapp6.0/staticwebassets.build.json
+/Users/phanupong/Downloads/configuring-cors-in-aspnet-and-aspnet-core-2/02/demos/Exercise Files/Module 02 Clip 03/Api/Globomantics.ProductsApi/obj/Debug/netcoreapp6.0/staticwebassets.development.json
+/Users/phanupong/Downloads/configuring-cors-in-aspnet-and-aspnet-core-2/02/demos/Exercise Files/Module 02 Clip 03/Api/Globomantics.ProductsApi/obj/Debug/netcoreapp6.0/scopedcss/bundle/Globomantics.ProductsApi.styles.css
+/Users/phanupong/Downloads/configuring-cors-in-aspnet-and-aspnet-core-2/02/demos/Exercise Files/Module 02 Clip 03/Api/Globomantics.ProductsApi/obj/Debug/netcoreapp6.0/Globomantics.ProductsApi.csproj.CopyComplete
+/Users/phanupong/Downloads/configuring-cors-in-aspnet-and-aspnet-core-2/02/demos/Exercise Files/Module 02 Clip 03/Api/Globomantics.ProductsApi/obj/Debug/netcoreapp6.0/Globomantics.ProductsApi.dll
+/Users/phanupong/Downloads/configuring-cors-in-aspnet-and-aspnet-core-2/02/demos/Exercise Files/Module 02 Clip 03/Api/Globomantics.ProductsApi/obj/Debug/netcoreapp6.0/ref/Globomantics.ProductsApi.dll
+/Users/phanupong/Downloads/configuring-cors-in-aspnet-and-aspnet-core-2/02/demos/Exercise Files/Module 02 Clip 03/Api/Globomantics.ProductsApi/obj/Debug/netcoreapp6.0/Globomantics.ProductsApi.pdb
+/Users/phanupong/Downloads/configuring-cors-in-aspnet-and-aspnet-core-2/02/demos/Exercise Files/Module 02 Clip 03/Api/Globomantics.ProductsApi/obj/Debug/netcoreapp6.0/Globomantics.ProductsApi.genruntimeconfig.cache
+/Users/jirapath/Workspace/SecureCoding-Workshop/M01-CORS/Api/Globomantics.ProductsApi/bin/Debug/netcoreapp6.0/appsettings.Development.json
+/Users/jirapath/Workspace/SecureCoding-Workshop/M01-CORS/Api/Globomantics.ProductsApi/bin/Debug/netcoreapp6.0/appsettings.json
+/Users/jirapath/Workspace/SecureCoding-Workshop/M01-CORS/Api/Globomantics.ProductsApi/bin/Debug/netcoreapp6.0/Globomantics.ProductsApi
+/Users/jirapath/Workspace/SecureCoding-Workshop/M01-CORS/Api/Globomantics.ProductsApi/bin/Debug/netcoreapp6.0/Globomantics.ProductsApi.deps.json
+/Users/jirapath/Workspace/SecureCoding-Workshop/M01-CORS/Api/Globomantics.ProductsApi/bin/Debug/netcoreapp6.0/Globomantics.ProductsApi.runtimeconfig.json
+/Users/jirapath/Workspace/SecureCoding-Workshop/M01-CORS/Api/Globomantics.ProductsApi/bin/Debug/netcoreapp6.0/Globomantics.ProductsApi.dll
+/Users/jirapath/Workspace/SecureCoding-Workshop/M01-CORS/Api/Globomantics.ProductsApi/bin/Debug/netcoreapp6.0/Globomantics.ProductsApi.pdb
+/Users/jirapath/Workspace/SecureCoding-Workshop/M01-CORS/Api/Globomantics.ProductsApi/bin/Debug/netcoreapp6.0/Bogus.dll
+/Users/jirapath/Workspace/SecureCoding-Workshop/M01-CORS/Api/Globomantics.ProductsApi/obj/Debug/netcoreapp6.0/Globomantics.ProductsApi.csproj.AssemblyReference.cache
+/Users/jirapath/Workspace/SecureCoding-Workshop/M01-CORS/Api/Globomantics.ProductsApi/obj/Debug/netcoreapp6.0/Globomantics.ProductsApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jirapath/Workspace/SecureCoding-Workshop/M01-CORS/Api/Globomantics.ProductsApi/obj/Debug/netcoreapp6.0/Globomantics.ProductsApi.AssemblyInfoInputs.cache
+/Users/jirapath/Workspace/SecureCoding-Workshop/M01-CORS/Api/Globomantics.ProductsApi/obj/Debug/netcoreapp6.0/Globomantics.ProductsApi.AssemblyInfo.cs
+/Users/jirapath/Workspace/SecureCoding-Workshop/M01-CORS/Api/Globomantics.ProductsApi/obj/Debug/netcoreapp6.0/Globomantics.ProductsApi.csproj.CoreCompileInputs.cache
+/Users/jirapath/Workspace/SecureCoding-Workshop/M01-CORS/Api/Globomantics.ProductsApi/obj/Debug/netcoreapp6.0/Globomantics.ProductsApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/jirapath/Workspace/SecureCoding-Workshop/M01-CORS/Api/Globomantics.ProductsApi/obj/Debug/netcoreapp6.0/staticwebassets/msbuild.Globomantics.ProductsApi.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/jirapath/Workspace/SecureCoding-Workshop/M01-CORS/Api/Globomantics.ProductsApi/obj/Debug/netcoreapp6.0/staticwebassets/msbuild.build.Globomantics.ProductsApi.props
+/Users/jirapath/Workspace/SecureCoding-Workshop/M01-CORS/Api/Globomantics.ProductsApi/obj/Debug/netcoreapp6.0/staticwebassets/msbuild.buildMultiTargeting.Globomantics.ProductsApi.props
+/Users/jirapath/Workspace/SecureCoding-Workshop/M01-CORS/Api/Globomantics.ProductsApi/obj/Debug/netcoreapp6.0/staticwebassets/msbuild.buildTransitive.Globomantics.ProductsApi.props
+/Users/jirapath/Workspace/SecureCoding-Workshop/M01-CORS/Api/Globomantics.ProductsApi/obj/Debug/netcoreapp6.0/staticwebassets.pack.json
+/Users/jirapath/Workspace/SecureCoding-Workshop/M01-CORS/Api/Globomantics.ProductsApi/obj/Debug/netcoreapp6.0/staticwebassets.build.json
+/Users/jirapath/Workspace/SecureCoding-Workshop/M01-CORS/Api/Globomantics.ProductsApi/obj/Debug/netcoreapp6.0/staticwebassets.development.json
+/Users/jirapath/Workspace/SecureCoding-Workshop/M01-CORS/Api/Globomantics.ProductsApi/obj/Debug/netcoreapp6.0/scopedcss/bundle/Globomantics.ProductsApi.styles.css
+/Users/jirapath/Workspace/SecureCoding-Workshop/M01-CORS/Api/Globomantics.ProductsApi/obj/Debug/netcoreapp6.0/Globomantics.ProductsApi.csproj.CopyComplete
+/Users/jirapath/Workspace/SecureCoding-Workshop/M01-CORS/Api/Globomantics.ProductsApi/obj/Debug/netcoreapp6.0/Globomantics.ProductsApi.dll
+/Users/jirapath/Workspace/SecureCoding-Workshop/M01-CORS/Api/Globomantics.ProductsApi/obj/Debug/netcoreapp6.0/refint/Globomantics.ProductsApi.dll
+/Users/jirapath/Workspace/SecureCoding-Workshop/M01-CORS/Api/Globomantics.ProductsApi/obj/Debug/netcoreapp6.0/Globomantics.ProductsApi.pdb
+/Users/jirapath/Workspace/SecureCoding-Workshop/M01-CORS/Api/Globomantics.ProductsApi/obj/Debug/netcoreapp6.0/Globomantics.ProductsApi.genruntimeconfig.cache
+/Users/jirapath/Workspace/SecureCoding-Workshop/M01-CORS/Api/Globomantics.ProductsApi/obj/Debug/netcoreapp6.0/ref/Globomantics.ProductsApi.dll
